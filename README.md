@@ -11,8 +11,8 @@
 
 ### CS Student @ University of Kansas · Building cool stuff with AI 🤖
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](
+www.linkedin.com/in/mason-osby-72709732a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mosby05@icloud.com)
 
 </div>
@@ -72,18 +72,6 @@ A movie review web app built with a team of four at HackKU 2025. Integrates the 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasOsby&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasOsby&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
