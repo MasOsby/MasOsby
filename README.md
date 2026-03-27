@@ -11,8 +11,7 @@
 
 ### CS Student @ University of Kansas · Building cool stuff with AI 🤖
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](
-www.linkedin.com/in/mason-osby-72709732a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mason-osby-72709732a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mosby05@icloud.com)
 
 </div>
