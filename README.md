@@ -1,16 +1,103 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MasOsby/MasOsby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+███╗   ███╗ █████╗ ███████╗ ██████╗ ███╗   ██╗
+████╗ ████║██╔══██╗██╔════╝██╔═══██╗████╗  ██║
+██╔████╔██║███████║███████╗██║   ██║██╔██╗ ██║
+██║╚██╔╝██║██╔══██║╚════██║██║   ██║██║╚██╗██║
+██║ ╚═╝ ██║██║  ██║███████║╚██████╔╝██║ ╚████║
+╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
+```
 
-Here are some ideas to get you started:
+### CS Student @ University of Kansas · Building cool stuff with AI 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mosby05@icloud.com)
+
+</div>
+
+---
+
+## 👋 Hey, I'm Mason
+
+> CS student at KU (class of '27), building AI-powered apps and learning something new every day. I love turning ideas into real products — from hackathon sprints to polished iOS apps.
+
+- 🏫 Studying **Computer Science** at the University of Kansas
+- 📱 Currently building **OOTD.AI** — an iOS app that generates outfit suggestions from your wardrobe
+- 🏆 Built **Movie Oracle** at HackKU 2025 with a team of four
+- 🎯 Interested in **AI integrations**, **mobile development**, and **full-stack web**
+- 📍 Based in Lawrence, KS
+
+---
+
+## 🚀 Current Projects
+
+### 📱 OOTD.AI *(In Progress)*
+> *Your AI-powered personal stylist*
+
+An iOS app where users can upload clothing items and get AI-generated outfit suggestions via the ChatGPT API. Also shows estimated resale value using RetailedAPI + TRUSS.
+
+`Swift` `SwiftUI` `Xcode` `ChatGPT API`
+
+---
+
+### 🎬 Movie Oracle — HackKU 2025
+> *AI-generated movie reviews, built in 24hrs*
+
+A movie review web app built with a team of four at HackKU 2025. Integrates the Gemini API to auto-generate reviews for any film you search.
+
+`React` `JavaScript` `HTML/CSS` `Docker` `Vite` `Gemini API`
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Mason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasOsby&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasOsby&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Campus & Community
+
+- ⚙️ **KU Software Engineers Club** — 2025
+- ✊ **Black Student Union** — 2024–2025
+- 🔬 **National Society of Black Engineers** — 2025
+- 💻 **HackKU 2025** Participant
+
+---
+
+<div align="center">
+
+*"Build first, perfect later."*
+
+</div>
