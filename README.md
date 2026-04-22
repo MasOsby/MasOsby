@@ -24,7 +24,7 @@
 
 - 🏫 Studying **Computer Science** at the University of Kansas
 - 📱 Currently building **OOTD.AI** — an iOS app that generates outfit suggestions from your wardrobe
-- 🏆 Built **Movie Oracle** at HackKU 2025 with a team of four
+- 🏆 Built **BetOnMe** at HackKU 2026 Won MLH Prize challenge
 - 🎯 Interested in **AI integrations**, **mobile development**, and **full-stack web**
 - 📍 Based in Lawrence, KS
 
@@ -50,6 +50,13 @@ A movie review web app built with a team of four at HackKU 2025. Integrates the 
 
 ---
 
+### BetOnMe — HackKU 2026 | MLH Prize Winner 
+> *Blockchain Accountability App*
+
+A self accountability app that used escrow base transaction used for placing a hold on currency unitl a goal set by the user was completed and verified via GPS + EXIF meta data from user images else the currency went towards a charity chosen at the time of creation
+`React` `JavaScript` `HTML/CSS` `Vercel` `Vite` `Gemini API` `MongoDB` `XRP Ledger`
+
+---
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -79,7 +86,7 @@ A movie review web app built with a team of four at HackKU 2025. Integrates the 
 - ⚙️ **KU Software Engineers Club** — 2025
 - ✊ **Black Student Union** — 2024–2025
 - 🔬 **National Society of Black Engineers** — 2025
-- 💻 **HackKU 2025** Participant
+- 🔬 **Secretary of National Society of Black Engineers** — 2026
 
 ---
 
