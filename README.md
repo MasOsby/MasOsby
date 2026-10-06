@@ -32,7 +32,7 @@
 
 ## 🚀 Current Projects
 
-### 📱 OOTD.AI *(In Progress)*
+### 📱 PIO *(In Progress)*
 > *Your AI-powered personal stylist*
 
 An iOS app where users can upload clothing items and get AI-generated outfit suggestions via the ChatGPT API. Also shows estimated resale value using RetailedAPI + TRUSS.
