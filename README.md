@@ -35,8 +35,7 @@
 ### 📱 PIO *(In Progress)*
 > *Your AI-powered personal stylist*
 
-An iOS app where users can upload clothing items and get AI-generated outfit suggestions via the ChatGPT API. Also shows estimated resale value using RetailedAPI + TRUSS.
-
+An iOS app where users can upload clothing items and get AI-generated outfit suggestions via the ChatGPT API. AI take in previously worn outfits, weather, color preferences, and least worn clothing to build you the best outfit using your full wardrobe
 `Swift` `SwiftUI` `Xcode` `ChatGPT API`
 
 ---
@@ -45,7 +44,6 @@ An iOS app where users can upload clothing items and get AI-generated outfit sug
 > *AI-generated movie reviews, built in 24hrs*
 
 A movie review web app built with a team of four at HackKU 2025. Integrates the Gemini API to auto-generate reviews for any film you search.
-
 `React` `JavaScript` `HTML/CSS` `Docker` `Vite` `Gemini API`
 
 ---
@@ -62,13 +60,13 @@ A self accountability app that used escrow base transaction used for placing a h
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 **Frameworks & Tools**
 
@@ -87,6 +85,8 @@ A self accountability app that used escrow base transaction used for placing a h
 - ✊ **Black Student Union** — 2024–2025
 - 🔬 **National Society of Black Engineers** — 2025
 - 🔬 **Secretary of National Society of Black Engineers** — 2026
+- 💻 **Hack KU 2026 Organizer** - 2026
+- 🤖 **KU AI Club** - 2026 
 
 ---
 
