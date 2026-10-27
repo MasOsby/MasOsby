@@ -23,7 +23,7 @@
 > CS student at KU (class of '27), building AI-powered apps and learning something new every day. I love turning ideas into real products — from hackathon sprints to polished iOS apps.
 
 - 🏫 Studying **Computer Science** at the University of Kansas
-- 📱 Currently building **OOTD.AI** — an iOS app that generates outfit suggestions from your wardrobe
+- 📱 Currently building **PIO** — an iOS app that generates outfit suggestions from your wardrobe
 - 🏆 Built **BetOnMe** at HackKU 2026 Won MLH Prize challenge
 - 🎯 Interested in **AI integrations**, **mobile development**, and **full-stack web**
 - 📍 Based in Lawrence, KS
